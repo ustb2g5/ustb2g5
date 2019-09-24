@@ -14,7 +14,8 @@ public class Main {
 	}
 	private static void displayGreeting() {
 		// TODO Auto-generated method stub
-		System.out.println("");
+		System.out.println("Welcome");
+		System.out.println("Test 1");
 	}
 	
 }
